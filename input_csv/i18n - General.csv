@@ -1,0 +1,153 @@
+key,en-US,ru-RU
+,,
+common.choose,Choose...,Выберите…
+,,
+filter.is,is,явл.
+filter.is_not,is not,не явл.
+filter.filters,Filters,Фильтры
+filter.add,Add a filter...,Добавить фильтр...
+,,
+options.legend,Options,Опции
+options.as_map,Show as Map,Показать как карту
+options.dual_y,Dual-Y,Две оси
+options.show95,Show 95/5,Показать 95/5
+,,
+date.for,For: ,За:
+date.last60m,Last 60 minutes,Последние 60 минут
+date.last24h,Last 24 hours,Последние  24 часа
+date.last7d,Last 7 days,Последние 7 дней
+date.last30d,Last 30 days,Последние  30 дней
+date.last12m,Last 12 months,Последние  12 месяцев
+date.today,Today,Сегодня
+date.this_w,This week,Текущую неделю
+date.this_m,This month,Текущий месяц
+date.this_y,This year,Текущий год
+date.yesterday,Yesterday,Вчера
+date.last_w,Last week,Прошлую неделю
+date.last_m,Last month,Прошлый месяц
+date.last_y,Last year,Прошлый год
+date.from, From: ,От:
+date.to, To: ,По:
+,,
+date.month.jan,January,Январь
+date.month.feb,February,Февраль
+date.month.mar,March,Март
+date.month.apr,April,Апрель
+date.month.may,May,Май
+date.month.jun,June,Июнь
+date.month.jul,July,Июль
+date.month.aug,August,Август
+date.month.sep,September,Сентябрь
+date.month.oct,October,Октябрь
+date.month.nov,November,Ноябрь
+date.month.dec,December,Декабрь
+,,
+date.month_short.jan,Jan,Янв
+date.month_short.feb,Feb,Фев
+date.month_short.mar,Mar,Мар
+date.month_short.apr,Apr,Апр
+date.month_short.may,May,Май
+date.month_short.jun,Jun,Июн
+date.month_short.jul,Jul,Июл
+date.month_short.aug,Aug,Авг
+date.month_short.sep,Sep,Сен
+date.month_short.oct,Oct,Окт
+date.month_short.nov,Nov,Ноя
+date.month_short.dec,Dec,Дек
+,,
+date.week.su,Sunday,Воскресенье
+date.week.mo,Monday,Понедельник
+date.week.tu,Tuesday,Вторник
+date.week.we,Wednesday,Среда
+date.week.th,Thursday,Четверг
+date.week.fr,Friday,Пятница
+date.week.sa,Saturday,Суббота
+,,
+date.week_short.su,Sun,Вос
+date.week_short.mo,Mon,Пон
+date.week_short.tu,Tue,Вто
+date.week_short.we,Wed,Сре
+date.week_short.th,Thu,Чет
+date.week_short.fr,Fri,Пят
+date.week_short.sa,Sat,Суб
+,,
+date.week_min.su,Su,Во
+date.week_min.mo,Mo,По
+date.week_min.tu,Tu,Вт
+date.week_min.we,We,Ср
+date.week_min.th,Th,Че
+date.week_min.fr,Fr,Пя
+date.week_min.sa,Sa,Су
+,,
+table.total,Total:,Общее количество:
+table.na,N/A,Н/Д
+table.sLengthMenu,Display _MENU_ per page,Показать _MENU_ записей
+table.sInfo,Showing _START_ - _END_ of _TOTAL_,Записи с _START_ до _END_ из _TOTAL_
+table.sSearch,Search:,Поиск:
+table.oPaginate.sPrevious,Prev,Пред
+table.oPaginate.sNext,Next,След
+,,
+measure.measure,Measure,Измерить
+measure.by,  By,К
+measure.time,Time,Время
+measure.interval,  Interval,За
+measure.add,Add a measure...,Добавить параментр измерения
+,,
+lens.lens,Lens,Выделить
+lens.none,None,Не выделять
+lens.top5,Top 5,Топ 5
+lens.bottom5,Bottom 5,Заключительные 5
+lens.value,Value of,Значение
+lens.percent,Percent of,Процент
+lens.include,Include other,Включить остальные
+lens.matches,matches,совпадения
+,,
+result_size.show,Show: ,Отобразить
+result_size.top,Top,Топ
+result_size.bottom,Bottom,Заключительные
+result_size.by, by ,за
+,,
+report.controls,Controls,Управление
+report.visual,Visualization,Визуализация
+report.table,Table,Таблица
+report.link,Permalink,Постоянная ссылка
+report.use_url,Use this URL to share this report.,"Используйте данный URL, чтобы поделиться данным отчетом"
+report.cancel,Cancel,Отмена
+report.select,Select,Выбрать
+report.new,New Report,Новый отчет
+,,
+customer.select,Please select a customer,"Пожалуйста, выберите клиента"
+customer.single,"With the current report settings, you can only filter to a single Customer.","При текущих настройках отчета, у вас есть возможность фильтровать только по одному клиенту."
+customer.pick_one,Please pick only one Customer to filter the data to.,"Пожалуйста, выберите только одного клиента для фильтрации данных"
+,,
+breakout.show,Show,Отобразить
+breakout.by,by,по
+,,
+LoginForm.Please sign in,Please sign in with your username and password.,"Пожалуйста, введите своё имя пользователя и пароль."
+LoginForm.Username,Username,Имя пользователя
+LoginForm.Password,Password,Пароль
+LoginForm.Login,Login,Войти
+,,
+report.create_new_button,Create new report,Создать новый отчет
+,,
+error.general_message,An error occurred. Please contact your administrator.,"Произошла ошибка. Пожалуйста, обратитесь к администратору."
+,,
+error.continue_button,Continue,Продолжить
+,,
+application_title,CDN Analytics,CDN Analytics
+,,
+application_tagline,Insight for Content Delivery Networks,Пособие по Сети доставки контента
+,,
+application_copyright,"Copyright © Skytide, Inc.","Copyright © Skytide, Inc."
+,,
+,,
+header.logged_in_as,Logged in as,Вы вошли как:
+header.logout_link,Logout,Выйти
+,,
+error.wrong_user_credentials,Could not authenticate user. Please check your username and password.,"Ошибка аутентификации пользователей. Пожалуйста, проверьте введенное имя пользователя и пароль."
+error.authentication_system_error,There was an error trying to authenticate.,Во время аутентификации произошла ошибка.
+error.data_to_large_csv,"The data you requested is too large to be shown in the browser you are using. If you continue, you will see only part of the data but you will be able to download the entire data set into a .xlsx or .csv file.","Запрашиваемые вами данные имеют слишком большой размер и не могут быть отображены в используемом вами браузере. Если вы продолжите, то увидите лишь часть данных, но у вас есть возможность скачать весь пакет данных в файл с расширением .xlsx или .csv."
+error.data_to_large,"The data you requested is too large to be shown in the browser you are using. If you continue, you will see only part of the data.","Запрашиваемые вами данные имеют слишком большой размер и не могут быть отображены в используемом вами браузере. Если вы продолжите, то увидите лишь часть данных."
+error.btn.full_data,Loading full data (you will see only part of the data),Загрузить все данные (будет показана только часть)
+error.btn.reduce_data,With reduced data,Ограничить данные
+error.btn.ok,Ok,Да

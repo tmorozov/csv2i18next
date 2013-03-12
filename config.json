@@ -1,0 +1,5 @@
+{
+	"inputCsvDirectory" : "input_csv",
+	"outputJsonDirectory" : "../../app/assets/locales",
+	"outputYmlDirectory" : "../../config/locales"
+}
